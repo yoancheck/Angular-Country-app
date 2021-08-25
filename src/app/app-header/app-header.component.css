@@ -1,0 +1,21 @@
+.header {
+  background-color: ;
+  height: 100px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  color: red;
+  margin: 0 auto;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+.links a{
+  margin: 0 12px;
+}
